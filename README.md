@@ -1,5 +1,4 @@
 <h2> Configuration</h2>
-==========
 
 1. Using eclipse create a new project.
 
@@ -50,6 +49,10 @@ Example 2:
 cd /home/user/android-sdks/platform-tools/
 adb shell uiautomator runtest MyFirstQAproject.jar -c testcases.CalculatorTest
 </pre>
+
+<h3> Demo </h3>
+
+https://www.youtube.com/watch?v=y8CRUAk2d7U
 
 For more information please visit: 
 
